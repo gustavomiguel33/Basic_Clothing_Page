@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  
+  .box1 {
+    width: 40%;
+    margin: 60px 150px;
+  }
+
+  .box2 {
+    width: 60%;
+    background-image: url('../images/hero-desktop.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
